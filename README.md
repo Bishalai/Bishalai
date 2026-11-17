@@ -34,37 +34,6 @@ Currently pursuing an **M.Sc. in Data Science at Tribhuvan University**, with a 
 
 ---
 
-### Featured Projects
-
-**01. LLM & Stable Diffusion Fine-Tuning with LoRA**
-
-*PyTorch · Hugging Face · PEFT · ComfyUI*
-
-**02. DEM Super-Resolution for High Mountain Asia**
-
-*PyTorch · NASADEM · Sentinel-2 · Geospatial AI*
-
-🔗 [View DEM super resolution Repository](https://github.com/Bishalai/DEM_SR)
-
-**03. Object Tracking for Football Analytics**
-
-*PyTorch · OpenCV · NumPy · Pandas*
-
-**04. Nepali Meal Recommendation System**
-
-*Python · Pandas · Scikit-learn · Django · PostgreSQL*
-
-🔗 [View Meal Recommendation Repository](https://github.com/Bishalai/recommendation_meal)
-
-**05. Darian Calendar — Tempus**
-
-*C++ · wxWidgets*
-
-🔗 [View Darian Calendar Repository](https://github.com/Bishalai/WxWidgets-Darian_Calendar-Tempus-)
-
----
-
-
 ### Let's Connect
 
 I'm always interested in discussing machine learning, generative AI, computer vision, research, and interesting engineering projects.
