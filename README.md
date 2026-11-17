@@ -40,19 +40,9 @@ Currently pursuing an **M.Sc. in Data Science at Tribhuvan University**, with a 
 
 *PyTorch · Hugging Face · PEFT · ComfyUI*
 
-- Developed parameter-efficient fine-tuning pipelines for language and diffusion models.
-- Reduced trainable parameters by over **90%** using LoRA while retaining task performance in experiments.
-- Built end-to-end workflows covering dataset preparation, training, evaluation, and inference.
-- Experimented with rank and alpha configurations to balance model quality and computational cost.
-
 **02. DEM Super-Resolution for High Mountain Asia**
 
 *PyTorch · NASADEM · Sentinel-2 · Geospatial AI*
-
-- Developing a 3× super-resolution pipeline to transform 30m DEMs into 10m elevation estimates.
-- Conditioning elevation reconstruction on co-registered Sentinel-2 RGB imagery.
-- Evaluating generalization across **40+ sites** in High Mountain Asia.
-- Exploring generative modeling and terrain reconstruction using rectified flow.
 
 🔗 [View DEM super resolution Repository](https://github.com/Bishalai/DEM_SR)
 
@@ -60,28 +50,15 @@ Currently pursuing an **M.Sc. in Data Science at Tribhuvan University**, with a 
 
 *PyTorch · OpenCV · NumPy · Pandas*
 
-- Developed a real-time player and ball tracking pipeline for football match footage.
-- Integrated object detection and tracking for automated match analysis.
-- Achieved **93% accuracy** in automated match-statistics generation.
-- Generated positional time-series visualizations for tactical analysis.
-
 **04. Nepali Meal Recommendation System**
 
 *Python · Pandas · Scikit-learn · Django · PostgreSQL*
-
-- Built a hybrid recommendation engine combining content-based and collaborative filtering.
-- Personalized recommendations using nutritional profiles and user history.
-- Developed a Django REST API with sub-100ms average response time.
 
 🔗 [View Meal Recommendation Repository](https://github.com/Bishalai/recommendation_meal)
 
 **05. Darian Calendar — Tempus**
 
 *C++ · wxWidgets*
-
-- Built a native desktop calendar application for the Darian calendar system used on Mars.
-- Implemented sol tracking and Darian date calculations.
-- Explored cross-platform GUI development and non-Gregorian timekeeping.
 
 🔗 [View Darian Calendar Repository](https://github.com/Bishalai/WxWidgets-Darian_Calendar-Tempus-)
 
