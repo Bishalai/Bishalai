@@ -6,7 +6,7 @@ I build and fine-tune machine learning systems — from parameter-efficient LLM 
 
 Currently pursuing an **M.Sc. in Data Science at Tribhuvan University**, with a background in Computer Engineering and a strong interest in generative AI, deep learning, and applied machine learning.
 
-📍 Kathmandu, Nepal · 📧 [Email](mailto\:thakbishal7@gmail.com) · 🌐 [Portfolio](https://bishalai.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/)
+📍 Kathmandu, Nepal · 📧 [Email](mailto\:thakbishal7@gmail.com) · 🌐 [Website](https://bishalai.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/)
 
 ---
 
@@ -40,6 +40,4 @@ I'm always interested in discussing machine learning, generative AI, computer vi
 
 - 📧 **Email:** [thakbishal7@gmail.com](mailto\:thakbishal7@gmail.com)
 - 💻 **GitHub:** [@Bishalai](https://github.com/Bishalai)
-- 🌐 **Portfolio:** [bishalai.github.io](https://bishalai.github.io/)
-
-\<p align="center">   \<i>Building, experimenting, and making intelligent systems more useful.\</i> \</p>
+- 🌐 **Website:** [bishalai.github.io](https://bishalai.github.io/)
